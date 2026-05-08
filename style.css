@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+
+button {
+    border: 2px solid red;
+}
